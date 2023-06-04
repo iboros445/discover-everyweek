@@ -47,7 +47,3 @@ def create_new_playlist(spotify_client, name):
     set_key(dotenv_path=".env",key_to_set="DISCOVER_EVERYWEEK_NAME",value_to_set=name)
     return created_playlist['id']
 
-
-
-#print(get_discover_weekly(sp))
-#move_one_playlist_to_another(sp, "37i9dQZEVXcOlU522qFZ0z", "0e7INHoSnMWPHl7eHlRrTt")
