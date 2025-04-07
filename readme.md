@@ -20,7 +20,7 @@ What you need:
 6. Enter the app's settings and click on "View client secret"
 7. Copy the client id and client secret into your .env file in the appropriate fields.
 
-## Usuage
+## Usage
 When using the script you can perform 2 functions:
 ### Rename the playlist you want the discover weekly to be saved into.
 In order to rename the playlist you need to run the script as follows:  
